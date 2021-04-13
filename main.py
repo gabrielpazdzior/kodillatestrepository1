@@ -4,3 +4,5 @@ cubes = [number * number * number for number in numbers if number > 0]
 print(cubes)
 print("ZADANIE 02")
 print("Hiszpańska Inkwizycja")
+print("Ministerstwo Głupich Kroków")
+print(cubes)
